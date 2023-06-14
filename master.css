@@ -1,0 +1,72 @@
+body {
+    background-image: url(background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+div{
+    width:1100px;
+    background-color:rgba(0, 0, 0, 0.55);
+    margin: 40px 25% 100px 25% ;
+    border-radius:5%;
+    height: 1000px;
+}
+#logo{
+    padding-top: 60px;
+    display:block;
+    margin: auto auto auto auto;
+    width: 30%;
+}
+#p-header{
+    color: #00ff00;
+    text-align: center;
+    font-size:30px;
+    font:arial;
+    font-weight: bolder;
+}
+nav{
+    padding-top:20px;
+    width: 80%;
+    height: 40px;
+    background-color: #00ff00;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+main{
+    margin-top: 30px;
+    margin-left: 120px;
+    color: white;
+    font-size: 25px;
+    font:arial;
+    font-weight: 500;
+}
+.monopattini, .statocarica{
+    font-size: 20px;
+    font-weight: 200 ;
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-bottom: -1%;
+}
+#barra1, #barra2, #barra3{
+    height: 40px;
+    text-align: center;
+    display: block;
+    margin-top: 12px;
+    border-radius: 10px;
+}
+#barra1{
+    width: 35%;
+    background-color: #ffac4d;
+}
+#barra2{
+    width: 65%;
+    background-color: #42bef8;
+}
+#barra3{
+    width: 15%;
+    background-color: #c72d2d;
+}
+
+
+
+
