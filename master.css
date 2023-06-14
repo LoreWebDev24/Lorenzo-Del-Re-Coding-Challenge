@@ -20,7 +20,6 @@ div{
     color: #00ff00;
     text-align: center;
     font-size:30px;
-    font:arial;
     font-weight: bolder;
 }
 nav{
@@ -37,7 +36,6 @@ main{
     margin-left: 120px;
     color: white;
     font-size: 25px;
-    font:arial;
     font-weight: 500;
 }
 .monopattini, .statocarica{
